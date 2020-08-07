@@ -324,7 +324,7 @@ div._3d span a{
         background-size: 50px;
         background-color: rgb(245, 229, 214);
         margin : 0px;
-        overflow-x: auto;
+        overflow-x: hidden;
     }
     div.top{
         font-style: italic;
