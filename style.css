@@ -13,6 +13,7 @@ div.top{
     height:100px;
     position:relative;
     bottom:50px;
+    position:fixed;
 }
 div.top p{
     position:relative;
